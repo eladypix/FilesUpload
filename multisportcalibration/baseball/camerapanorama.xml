@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<type>FRAME</type>
+<camera_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    1.3613930223073121e+03 0. 1920. 0. 1.3613930223073121e+03 400. 0. 0.
+    1.</data></camera_matrix>
+<rig_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    1. 0. 0. 0. 9.3969262078590843e-01 -3.4202014332566871e-01 0.
+    3.4202014332566871e-01 9.3969262078590843e-01</data></rig_matrix>
+<distortion_coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    0. -1.1000000000000000e-01 0. 0. 0.</data></distortion_coefficients>
+<R type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -1.2817304763960304e+00 0. 0.</data></R>
+<T type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -2.1185579568788835e+01 -9.6553757915927481e+00
+    5.3320228307862308e+01</data></T>
+<realT type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    2.1185579568788835e+01 5.3860334981229620e+01
+    -5.9445222002419751e+00</data></realT>
+<image_width>3840</image_width>
+<image_height>800</image_height>
+<sensor_width_mm>7.1039999602362514e+00</sensor_width_mm>
+<sensor_height_mm>1.4799999917158857e+00</sensor_height_mm>
+<focal_lens_mm>2.5185770771711082e+00</focal_lens_mm>
+<fovxND_deg>1.0932222954499953e+02</fovxND_deg>
+<fovyND_deg>3.2747337386037302e+01</fovyND_deg>
+<fovxReal_deg>1.2203378913045574e+02</fovxReal_deg>
+<fovyReal_deg>3.3044248051818315e+01</fovyReal_deg>
+<principalPointX>3.5519999801181261e+00</principalPointX>
+<principalPointY>7.3999999585794296e-01</principalPointY>
+<aspectRatio>1.</aspectRatio>
+<cornerUndistortX>-5.6796971659854762e+02</cornerUndistortX>
+<cornerUndistortY>-1.1832702429136407e+02</cornerUndistortY>
+<horizontalUndistortX>-5.3772683978153782e+02</horizontalUndistortX>
+<verticalUndistortY>-3.8348592780126864e+00</verticalUndistortY>
+<distortionPercentage>-2.2828642680388135e+01</distortionPercentage>
+<pixel_size>1.8499999896448571e-06</pixel_size>
+<readFromRealT>0</readFromRealT>
+</opencv_storage>
