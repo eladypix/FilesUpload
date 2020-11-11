@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<type>FRAME</type>
+<camera_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    3.2418085859652551e+03 0. 1920. 0. 3.2418085859652551e+03 1080. 0.
+    0. 1.</data></camera_matrix>
+<rig_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.9999999999999989e-01 1.8260279174365495e-09 1.3870059063819611e-08
+    1.8260279174365495e-09 9.6592582628906842e-01
+    -2.5881904510252030e-01 -1.3870059063819611e-08
+    2.5881904510252030e-01 9.6592582628906820e-01</data></rig_matrix>
+<distortion_coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    0. 0. -1.5254472904236574e-02 0. 0.</data></distortion_coefficients>
+<R type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -1.3089243519483376e+00 -8.9680994933149183e-02
+    -5.9582049623386930e-03</data></R>
+<T type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -2.3690724871579302e+01 -1.3006703039148793e+01
+    6.1402216223581512e+01</data></T>
+<realT type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    1.9946556001621776e+01 6.3883815437602919e+01
+    -4.6529511995484167e+00</data></realT>
+<image_width>3840</image_width>
+<image_height>900</image_height>
+<sensor_width_mm>7.1039999602362514e+00</sensor_width_mm>
+<sensor_height_mm>1.6649999906803714e+00</sensor_height_mm>
+<focal_lens_mm>5.9973458504663313e+00</focal_lens_mm>
+<fovxND_deg>6.1273293532214907e+01</fovxND_deg>
+<fovyND_deg>1.5247299045582473e+01</fovyND_deg>
+<fovxReal_deg>6.9070662124952392e+01</fovxReal_deg>
+<fovyReal_deg>2.2297993621127077e+01</fovyReal_deg>
+<principalPointX>3.5519999801181261e+00</principalPointX>
+<principalPointY>1.9979999888164459e+00</principalPointY>
+<aspectRatio>1.</aspectRatio>
+<cornerUndistortX>-3.8288961789609266e+02</cornerUndistortX>
+<cornerUndistortY>-2.1537541006655215e+02</cornerUndistortY>
+<horizontalUndistortX>-3.1097785399457962e+02</horizontalUndistortX>
+<verticalUndistortY>-4.3623823401416075e+01</verticalUndistortY>
+<distortionPercentage>-1.7732247810286342e+01</distortionPercentage>
+<pixel_size>1.8499999896448571e-06</pixel_size>
+<readFromRealT>0</readFromRealT>
+</opencv_storage>
